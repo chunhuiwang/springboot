@@ -1,2 +1,2 @@
 # springboot
-Spring Boot learn result.
+SpringBoot learn result.
